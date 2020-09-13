@@ -1,0 +1,8 @@
+.inputField{
+    
+    width:300px;
+    padding:10px;
+    border: solid 1px rgb(200,200,200); 
+    border-radius:4px;
+    font: 400 18px Roboto, sans-serif;
+}
